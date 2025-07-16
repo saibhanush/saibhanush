@@ -1,11 +1,26 @@
-- 👋 Hi, I’m @saibhanush
-- 👀 I’m interested in Web Development ...
-- 🌱 I’m currently learning React and Next ...
-- 💞️ I’m looking to collaborate on any React project ...
-- 🧐 Recent Btech Graduate...
-- Specialized in AI and ML , but rn working on Web Development ..
+🚀 About Me
+2024 BTech Grad | Ex-Amazon Transportation Specialist | Scalar Learner (Java & Full-Stack Dev ’24-’26)
 
-<!---
-saibhanush/saibhanush is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hey there! I’m a tech enthusiast transitioning from logistics tech at Amazon to full-stack development. Currently upskilling at Scalar with a focus on:
+
+Java (OOP, DSA, Spring Boot)
+
+System Design
+
+Cloud & DevOps
+
+🌱 My GitHub Journey
+
+Building projects that solve real-world problems
+
+Documenting my learning with clean code and READMEs
+
+Open to collabs on open-source or innovative ideas
+
+💡 Philosophy
+“Do what you can to expect what you want.”
+
+📫 Let’s Connect
+//mb hyperlink aint working 
+www.linkedin.com/in/saibhanush
+
