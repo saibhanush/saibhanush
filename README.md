@@ -1,5 +1,5 @@
 🚀 
-2024 BTech Grad CS(AI&ML)| Ex-Amazon Transportation Specialist | Scalar Learner (Java & Full-Stack Dev ’24-’26)
+2024 BTech Grad CS(AI&ML)| Ex-Amazon Transportation Specialist | Scaler Learner (Java & Full-Stack Dev ’24-’26)
 
 Hey there! I’m a tech enthusiast transitioning from logistics tech at Amazon to full-stack development. Currently upskilling at Scalar with a focus on:
 
