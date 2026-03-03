@@ -21,6 +21,6 @@ Open to collabs on open-source or innovative ideas
 “Do what you can to expect what you want.”
 
 📫 Let’s Connect
-//mb hyperlink aint working 
 www.linkedin.com/in/saibhanush
+saibhanush2@gmail.com
 
